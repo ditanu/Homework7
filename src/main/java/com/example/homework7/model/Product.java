@@ -30,11 +30,4 @@ public class Product {
 
     private Boolean deleted = Boolean.FALSE;
 
-    public Integer getStock() {
-        return stock;
-    }
-
-    public void setStock(Integer stock) {
-        this.stock = stock;
-    }
 }
